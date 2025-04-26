@@ -1,1 +1,4 @@
 # Hackathon
+## Solution for the Task
+In this repository, you will find the code to solve the problem that was assigned to us. /f I chose one difficulty level for myself: basic.
+Solution_pipelines. py has been updated, and my code has been inserted there, slightly corrected. /f The predictions are close, but I don't know why, they're not always correct.
